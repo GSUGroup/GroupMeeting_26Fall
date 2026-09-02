@@ -14,15 +14,15 @@ Please update your presentation information with the following format.
 | 2026-9-10  | Zhuoyu Yao | - | -|
 | 2026-9-17  | Junyu Mai    | -  | -|
 | 2026-9-24  | Feng Jiang     | -   | -|
-| 2026-10-1  |  Haijing Zhang   | -      | -     |
-| 2026-10-8  | Peiyang Chen    | - | -      |
+| 2026-10-1  |  Peiyang Chen    | -      | -     |
+| 2026-10-8  | Haijing Zhang   | - | -      |
 | 2026-10-15  | Tingqi Wang    | - | -|
-| 2026-10-22  | Jimmy    | -| -      |
+| 2026-10-22  | Jimmy Li   | -| -      |
 | 2026-10-29  | Jessie Quach |   -   | -      |
 | 2026-11-5  | Xiaochen Qu  | -     | -      |
 | 2026-11-12  | Dong Yang, Zhuoyu Yao    | -      | -      |
 | 2026-11-19  | Junyu Mai, Feng Jiang    |  -      | -      |
 | 2026-11-26  | Thanksgiving Break     |  -      | -      |
 | 2026-12-3  | Peiyang Chen, Tingqi Wang    |  -      | -      |
-| 2026-12-10  | Jimmy, Jessie Quach    |  -      | -      |
+| 2026-12-10  | Jimmy Li, Jessie Quach    |  -      | -      |
 
