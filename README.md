@@ -10,7 +10,7 @@ Please update your presentation information with the following format.
 
 | Date       |   Presenter   | Topic | Slides |
 |------------|---------------|-------|--------|
-| 2026-9-3   | Dong Yang     | Uncertainty-Aware Distributed RME  in Decentralized Wireless Networks| [Link]()|
+| 2026-9-3   | Dong Yang     | Uncertainty-Aware Distributed RME  in Decentralized Wireless Networks| [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/DongYang/UADRME.pdf)|
 | 2025-9-10  | Zhuoyu Yao | - | -|
 | 2025-9-17  | Junyu Mai    | -  | -|
 | 2025-9-24  | Feng Jiang     | -   | -|
