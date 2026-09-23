@@ -20,9 +20,8 @@ Please update your presentation information with the following format.
 | 2026-10-22  | Jimmy Li   | -| -      |
 | 2026-10-29  | Jessie Quach |   -   | -      |
 | 2026-11-5  | Shuaikang Hou  | -     | -      |
-| 2026-11-12  | Dong Yang, Zhuoyu Yao    | -      | -      |
-| 2026-11-19  | Junyu Mai, Feng Jiang    |  -      | -      |
+| 2026-11-12  | Xiaochen Qu   | -      | -      |
+| 2026-11-19  | Yao Li    |  -      | -      |
 | 2026-11-26  | Thanksgiving Break     |  -      | -      |
-| 2026-12-3  | Peiyang Chen, Tingqi Wang    |  -      | -      |
-| 2026-12-10  | Jimmy Li, Jessie Quach    |  -      | -      |
+| 2026-12-3  | Qasim Zia    |  -      | -      |
 
