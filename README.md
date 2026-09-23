@@ -13,7 +13,7 @@ Please update your presentation information with the following format.
 | 2026-9-3   | Dong Yang     | Uncertainty-Aware Distributed RME  in Decentralized Wireless Networks| [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/DongYang/UADRME.pdf)|
 | 2026-9-10  | Zhuoyu Yao | Agentic AI and Wireless Applications | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/ZhuoyuYao/Agentic_RL_0910.pdf)|
 | 2026-9-17  | Junyu Mai    | Chinese Input Method Editor Research in Extended Reality  | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Junyu_Mai/CIME09162113.pdf)|
-| 2026-9-24  | Feng Jiang     | -   | -|
+| 2026-9-24  | Feng Jiang     | QuantBackdoorDM | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/FengJiang/QuantBackdoorDM.pdf)|
 | 2026-10-1  |  Peiyang Chen    | -      | -     |
 | 2026-10-8  | Haijing Zhang   | - | -      |
 | 2026-10-15  | Tingqi Wang    | - | -|
