@@ -1,6 +1,6 @@
 # Group Seminar – Fall 2026
 
- **Date**: Sep 3 to Dec 10
+ **Date**: Sep 3 to Dec 3
  
  **Time**: 12:00 PM to 1:00 PM, Thursday
  
