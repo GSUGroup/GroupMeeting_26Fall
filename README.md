@@ -15,7 +15,7 @@ Please update your presentation information with the following format.
 | 2026-9-17  | Junyu Mai    | Chinese Input Method Editor Research in Extended Reality  | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Junyu_Mai/CIME09162113.pdf)|
 | 2026-9-24  | Feng Jiang     | QuantBackdoorDM | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/FengJiang/QuantBackdoorDM.pdf)|
 | 2026-10-1  |  Peiyang Chen    | Long-Term Viewport Prediction in 360 Videos & Agentic Unlearning   | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Peiyang_Chen/Long-Term%20Viewport%20Prediction%20in%20360%20Videos%20%26%20Agentic%20Unlearning.pdf)     |
-| 2026-10-8  | Haijing Zhang   | - | -      |
+| 2026-10-8  | Haijing Zhang   | Learning Equilibrium in Rank-Order Tournaments | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Haijing%20Zhang/Learning%20Equilibrium%20in%20Rank-Order%20Tournaments.pdf)      |
 | 2026-10-15  | Tingqi Wang    | - | -|
 | 2026-10-22  | Jimmy Li   | -| -      |
 | 2026-10-29  | Jessie Quach |   -   | -      |
