@@ -17,7 +17,7 @@ Please update your presentation information with the following format.
 | 2026-10-1  |  Peiyang Chen    | Long-Term Viewport Prediction in 360 Videos & Agentic Unlearning   | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Peiyang_Chen/Long-Term%20Viewport%20Prediction%20in%20360%20Videos%20%26%20Agentic%20Unlearning.pdf)     |
 | 2026-10-8  | Haijing Zhang   | Learning Equilibrium in Rank-Order Tournaments | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Haijing%20Zhang/Learning%20Equilibrium%20in%20Rank-Order%20Tournaments.pdf)      |
 | 2026-10-15  | Tingqi Wang    | when llms meet external knowledge | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Tingqi%20Wang/when_llms_meet_external_knowledge.pdf)|
-| 2026-10-22  | Jimmy Li   | -| -      |
+| 2026-10-22  | Jimmy Li   | Concept Bottleneck Models| [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Jimmy_Li/Concept%20Bottleneck%20Models.pdf)      |
 | 2026-10-29  | Jessie Quach |   -   | -      |
 | 2026-11-5  | Shuaikang Hou  | -     | -      |
 | 2026-11-12  | Xiaochen Qu   | -      | -      |
