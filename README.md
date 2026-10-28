@@ -18,7 +18,7 @@ Please update your presentation information with the following format.
 | 2026-10-8  | Haijing Zhang   | Learning Equilibrium in Rank-Order Tournaments | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Haijing%20Zhang/Learning%20Equilibrium%20in%20Rank-Order%20Tournaments.pdf)      |
 | 2026-10-15  | Tingqi Wang    | when llms meet external knowledge | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Tingqi%20Wang/when_llms_meet_external_knowledge.pdf)|
 | 2026-10-22  | Jimmy Li   | Concept Bottleneck Models| [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Jimmy_Li/Concept%20Bottleneck%20Models.pdf)      |
-| 2026-10-29  | Jessie Quach |   -   | -      |
+| 2026-10-29  | Jessie Quach |   Latent synchronization for lightweight multimodal federated learning with heterogenous modalities   | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Jessie_Quach/Jessie_Quach_LaSyM_Presentation.pdf)      |
 | 2026-11-5  | Shuaikang Hou  | -     | -      |
 | 2026-11-12  | Xiaochen Qu   | -      | -      |
 | 2026-11-19  | Yao Li    |  -      | -      |
