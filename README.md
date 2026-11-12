@@ -20,7 +20,7 @@ Please update your presentation information with the following format.
 | 2026-10-22  | Jimmy Li   | Concept Bottleneck Models| [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Jimmy_Li/Concept%20Bottleneck%20Models.pdf)      |
 | 2026-10-29  | Jessie Quach |   Latent synchronization for lightweight multimodal federated learning with heterogenous modalities   | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/Jessie_Quach/Jessie_Quach_LaSyM_Presentation.pdf)      |
 | 2026-11-5  | Shuaikang Hou  | Continuous User Authentication for Extended Reality Using Pupil Reflexive Mechanisms as a Biometric    | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/ShuaikangHou/Group%20Presentation_Shuaikang%20Hou.pdf)      |
-| 2026-11-12  | Xiaochen Qu   | -      | -      |
+| 2026-11-12  | Xiaochen Qu   | Semantic Communications: From Principles to DeepSC     | [Link](https://github.com/GSUGroup/GroupMeeting_26Fall/blob/main/Slides/XiaochenQu/Semantic%20Communications%20From%20Principles%20to%20DeepSC.pdf)     |
 | 2026-11-19  | Yao Li    |  -      | -      |
 | 2026-11-26  | Thanksgiving Break     |  -      | -      |
 | 2026-12-3  | Qasim Zia    |  -      | -      |
